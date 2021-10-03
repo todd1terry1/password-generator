@@ -7,3 +7,4 @@ This app will generate a random passsword for you in a multitude of ways. You ca
 If you would like to add numbers to your password to add complexity you can. And to take it to the next level of security special characters such as '@' and '$' can be added to provide the highest level secure password.
 
 Please check out password-generator for all your ppassword needs.
+url https://todd1terry1.github.io/password-generator/
