@@ -8,3 +8,5 @@ If you would like to add numbers to your password to add complexity you can. And
 
 Please check out password-generator for all your ppassword needs.
 url https://todd1terry1.github.io/password-generator/
+
+![Password-Generator](images/th.jpg)
